@@ -179,7 +179,7 @@ erDiagram
 1. **Clone o repositório** dentro da pasta do Apache:
    ```bash
    cd "C:\xampp\htdocs"
-   git clone https://github.com/Mariaclara2424/Gestiq.git gestiq
+   git clone https://github.com/mariaclarapma/Gestiq.git gestiq
    ```
 2. **Instale as dependências:**
    ```bash
@@ -232,7 +232,7 @@ erDiagram
 
 | | |
 | --- | --- |
-| **Maria Clara Pedrosa** | [@Mariaclara2424](https://github.com/Mariaclara2424) |
+| **Maria Clara Pedrosa** | [@mariaclarapma](https://github.com/mariaclarapma) |
 | **Lívia Pacheco** | [@livmoorais](https://github.com/livmoorais) |
 
 Projeto acadêmico desenvolvido no curso de Ciência da Computação do **CEUB – Centro Universitário de Brasília**.
